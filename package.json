@@ -1,0 +1,11 @@
+{
+  "name": "420-smokeweedeveryday",
+  "version": "1.0.0",
+  "description": "420-api",
+  "main": "index.js",
+  "author": "Ryan Willpower <surasak.c.work@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^1.7.1"
+  }
+}
