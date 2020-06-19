@@ -1,5 +1,4 @@
 {
   "name": "420-smoke-weed",
-  "version": 1,
   "routes": [{ "src": "/", "dest": "api/index.ts" }]
 }
